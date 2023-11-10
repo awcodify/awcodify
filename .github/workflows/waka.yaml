@@ -9,14 +9,14 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: cdfmlr/waka-readme-stats@master
+      - name: Generate Waka Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_SHORT_INFO: "False"
-          SHOW_TOTAL_CODE_TIME: "False"
-          SHOW_UPDATED_DATE: "False"
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          COMMITTER_NAME: "GitHub Actions"
+          COMMITTER_EMAIL: "githubactions@github.com.br"
+          AUTHOR_NAME: "GitHub Actions"
+          AUTHOR_EMAIL: "githubactions@github.com.br"       
