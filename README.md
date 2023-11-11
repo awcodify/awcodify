@@ -1,15 +1,6 @@
 ### Hi there 👋
-<!--START_SECTION:waka-->
-
-```txt
-From: 09 November 2023 - To: 11 November 2023
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:GitInsights-->
+<!--END_SECTION:GitInsights-->
 
 <!--
 **awcodify/awcodify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
