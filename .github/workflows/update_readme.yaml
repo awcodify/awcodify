@@ -15,7 +15,7 @@ jobs:
       
     - name: Download and run GitInsight
       run: |
-        wget https://github.com/awcodify/GitInsights/releases/download/v0.1.0/GitInsights -O GitInsights
+        wget https://github.com/awcodify/GitInsights/releases/download/v0.1.1/GitInsights -O GitInsights
         chmod +x GitInsights
         ./GitInsights
 
