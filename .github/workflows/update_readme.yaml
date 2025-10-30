@@ -17,7 +17,7 @@ jobs:
       run: |
         wget http://github.com/awcodify/GitInsights/releases/latest/download/GitInsights -O GitInsights
         chmod +x GitInsights
-        ./GitInsights
+        ./GitInsights --exclude-languages=html,scss,css
 
         # Commit and push changes
         git config --local user.email "awcodify@gmail.com"
