@@ -25,12 +25,12 @@
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/96/000000/fire-element.png" width="48"/>
 <br><strong>Current Streak</strong>
-<br><code>50 days</code>
+<br><code>51 days</code>
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="48"/>
 <br><strong>Longest Streak</strong>
-<br><code>50 days</code>
+<br><code>51 days</code>
 </td>
 </tr>
 </table>
@@ -63,10 +63,10 @@
 </div>
 
 ```text
-🌙 Monday     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░  146 commits
+🌙 Monday     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░  146 commits
 🔥 Tuesday    ███████████████████████░░░░░░░  198 commits
 💎 Wednesday  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░  142 commits
-💚 Thursday   ██████████████████████████████  257 commits
+💚 Thursday   ██████████████████████████████  258 commits
 🎉 Friday     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░  160 commits
 🌟 Saturday   ▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░   94 commits
 ☀️ Sunday     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   48 commits
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-<sub>📅 Last updated: Thursday, December 18, 2025 at 12:05 AM</sub>
+<sub>📅 Last updated: Friday, December 19, 2025 at 12:06 AM</sub>
 
 <sub>⚡ Generated with [GitInsights](https://github.com/awcodify/GitInsights)</sub>
 
