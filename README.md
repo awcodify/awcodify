@@ -25,12 +25,12 @@
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/96/000000/fire-element.png" width="48"/>
 <br><strong>Current Streak</strong>
-<br><code>170 days</code>
+<br><code>171 days</code>
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="48"/>
 <br><strong>Longest Streak</strong>
-<br><code>170 days</code>
+<br><code>171 days</code>
 </td>
 </tr>
 </table>
@@ -65,10 +65,10 @@
 ```text
 🌙 Monday     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░  185 commits
 🔥 Tuesday    ███████████████████████░░░░░░░  272 commits
-💎 Wednesday  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  236 commits
-💚 Thursday   ██████████████████████████████  348 commits
-🎉 Friday     ██████████████████████░░░░░░░░  264 commits
-🌟 Saturday   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░  174 commits
+💎 Wednesday  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  237 commits
+💚 Thursday   ██████████████████████████████  352 commits
+🎉 Friday     ███████████████████████░░░░░░░  272 commits
+🌟 Saturday   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░  174 commits
 ☀️ Sunday     ▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░   94 commits
 ```
 
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-56.7%25-blue?style=flat-square&logo=typescript) ![Go](https://img.shields.io/badge/Go-34.3%25-blue?style=flat-square&logo=go) ![JavaScript](https://img.shields.io/badge/JavaScript-5.7%25-blue?style=flat-square&logo=javascript) ![Elixir](https://img.shields.io/badge/Elixir-1.2%25-blue?style=flat-square&logo=elixir) ![Ruby](https://img.shields.io/badge/Ruby-0.7%25-blue?style=flat-square&logo=ruby)
+![TypeScript](https://img.shields.io/badge/TypeScript-57.2%25-blue?style=flat-square&logo=typescript) ![Go](https://img.shields.io/badge/Go-34.3%25-blue?style=flat-square&logo=go) ![JavaScript](https://img.shields.io/badge/JavaScript-5.4%25-blue?style=flat-square&logo=javascript) ![Elixir](https://img.shields.io/badge/Elixir-1.1%25-blue?style=flat-square&logo=elixir) ![Ruby](https://img.shields.io/badge/Ruby-0.6%25-blue?style=flat-square&logo=ruby)
 
 </div>
 
@@ -88,17 +88,17 @@
 <summary><b>📊 Detailed Breakdown</b></summary>
 
 ```text
-🔷 TypeScript ██████████████████████░░░░░░░░░░░░░░░░░░  56.71%
-🔵 Go         ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░  34.26%
-🟨 JavaScript ▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5.67%
-💧 Elixir     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1.20%
-💎 Ruby       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
-🐍 Python     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
-🐚 Shell      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
-🟢 Vim Script ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
-💻 Makefile   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
-💻 PLpgSQL    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
-💻 Other      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+🔷 TypeScript ██████████████████████░░░░░░░░░░░░░░░░░░  57.16%
+🔵 Go         ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░  34.29%
+🟨 JavaScript ▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5.37%
+💧 Elixir     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
+💎 Ruby       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+🐍 Python     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+🐚 Shell      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+🟢 Vim Script ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+💻 Makefile   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+💻 PLpgSQL    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+💻 Other      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 ```
 
 </details>
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-<sub>📅 Last updated: Friday, April 17, 2026 at 12:16 AM</sub>
+<sub>📅 Last updated: Saturday, April 18, 2026 at 12:13 AM</sub>
 
 <sub>⚡ Generated with [GitInsights](https://github.com/awcodify/GitInsights)</sub>
 
