@@ -25,12 +25,12 @@
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/96/000000/fire-element.png" width="48"/>
 <br><strong>Current Streak</strong>
-<br><code>207 days</code>
+<br><code>208 days</code>
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="48"/>
 <br><strong>Longest Streak</strong>
-<br><code>207 days</code>
+<br><code>208 days</code>
 </td>
 </tr>
 </table>
@@ -69,7 +69,7 @@
 💚 Thursday   ██████████████████████████████  365 commits
 🎉 Friday     ███████████████████████░░░░░░░  288 commits
 🌟 Saturday   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░  207 commits
-☀️ Sunday     ▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░  144 commits
+☀️ Sunday     ▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░  145 commits
 ```
 
 <div align="center">
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-<sub>📅 Last updated: Sunday, May 24, 2026 at 12:24 AM</sub>
+<sub>📅 Last updated: Monday, May 25, 2026 at 12:25 AM</sub>
 
 <sub>⚡ Generated with [GitInsights](https://github.com/awcodify/GitInsights)</sub>
 
