@@ -25,12 +25,12 @@
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/96/000000/fire-element.png" width="48"/>
 <br><strong>Current Streak</strong>
-<br><code>216 days</code>
+<br><code>217 days</code>
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="48"/>
 <br><strong>Longest Streak</strong>
-<br><code>216 days</code>
+<br><code>217 days</code>
 </td>
 </tr>
 </table>
@@ -64,7 +64,7 @@
 
 ```text
 🌙 Monday     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░  252 commits
-🔥 Tuesday    █████████████████████████░░░░░  323 commits
+🔥 Tuesday    ██████████████████████████░░░░  333 commits
 💎 Wednesday  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░  271 commits
 💚 Thursday   ██████████████████████████████  381 commits
 🎉 Friday     ██████████████████████░░░░░░░░  289 commits
@@ -88,9 +88,9 @@
 <summary><b>📊 Detailed Breakdown</b></summary>
 
 ```text
-🔷 TypeScript █████████████████████░░░░░░░░░░░░░░░░░░░  53.89%
-🔵 Go         ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░  34.14%
-🟨 JavaScript ▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9.68%
+🔷 TypeScript █████████████████████░░░░░░░░░░░░░░░░░░░  53.93%
+🔵 Go         ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░  34.10%
+🟨 JavaScript ▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9.67%
 💧 Elixir     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
 💎 Ruby       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 🐍 Python     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
@@ -107,10 +107,10 @@
 
 <div align="center">
 
-<sub>📅 Last updated: Tuesday, June 2, 2026 at 12:31 AM</sub>
+<sub>📅 Last updated: Wednesday, June 3, 2026 at 12:36 AM</sub>
 
 <sub>⚡ Generated with [GitInsights](https://github.com/awcodify/GitInsights)</sub>
 
 </div>
 
-<!--END_SECTION:GitInsights-->>
+<!--END_SECTION:GitInsights-->-
