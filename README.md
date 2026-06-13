@@ -20,17 +20,17 @@
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/96/000000/resume.png" width="48"/>
 <br><strong>Account Age</strong>
-<br><code>10 years 1 months</code>
+<br><code>10 years 2 months</code>
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/96/000000/fire-element.png" width="48"/>
 <br><strong>Current Streak</strong>
-<br><code>226 days</code>
+<br><code>227 days</code>
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="48"/>
 <br><strong>Longest Streak</strong>
-<br><code>226 days</code>
+<br><code>227 days</code>
 </td>
 </tr>
 </table>
@@ -63,13 +63,13 @@
 </div>
 
 ```text
-🌙 Monday     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  257 commits
-🔥 Tuesday    ███████████████████████████░░░  347 commits
-💎 Wednesday  █████████████████████████░░░░░  323 commits
-💚 Thursday   ██████████████████████████████  383 commits
-🎉 Friday     ██████████████████████░░░░░░░░  291 commits
-🌟 Saturday   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░  209 commits
-☀️ Sunday     ▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░  147 commits
+🌙 Monday     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░  171 commits
+🔥 Tuesday    ███████████████████████░░░░░░░  223 commits
+💎 Wednesday  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░  167 commits
+💚 Thursday   ██████████████████████████████  283 commits
+🎉 Friday     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░  186 commits
+🌟 Saturday   ▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░  119 commits
+☀️ Sunday     ▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░   73 commits
 ```
 
 <div align="center">
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-53.6%25-blue?style=flat-square&logo=typescript) ![Go](https://img.shields.io/badge/Go-34.5%25-blue?style=flat-square&logo=go) ![JavaScript](https://img.shields.io/badge/JavaScript-9.6%25-blue?style=flat-square&logo=javascript) ![Elixir](https://img.shields.io/badge/Elixir-0.8%25-blue?style=flat-square&logo=elixir) ![Ruby](https://img.shields.io/badge/Ruby-0.4%25-blue?style=flat-square&logo=ruby)
+![TypeScript](https://img.shields.io/badge/TypeScript-49.4%25-blue?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-24.5%25-blue?style=flat-square&logo=javascript) ![Go](https://img.shields.io/badge/Go-14.0%25-blue?style=flat-square&logo=go) ![Elixir](https://img.shields.io/badge/Elixir-5.2%25-blue?style=flat-square&logo=elixir) ![Ruby](https://img.shields.io/badge/Ruby-2.9%25-blue?style=flat-square&logo=ruby)
 
 </div>
 
@@ -88,16 +88,16 @@
 <summary><b>📊 Detailed Breakdown</b></summary>
 
 ```text
-🔷 TypeScript █████████████████████░░░░░░░░░░░░░░░░░░░  53.65%
-🔵 Go         ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░  34.48%
-🟨 JavaScript ▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9.58%
-💧 Elixir     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.80%
-💎 Ruby       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
-🐍 Python     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
-🐚 Shell      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
-💻 Makefile   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
-🟢 Vim Script ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
-💻 PLpgSQL    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+🔷 TypeScript ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░  49.39%
+🟨 JavaScript ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  24.50%
+🔵 Go         ▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  13.98%
+💧 Elixir     ▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5.24%
+💎 Ruby       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.92%
+🐍 Python     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.65%
+🟢 Vim Script ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.80%
+🐚 Shell      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+💻 Makefile   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+💻 Dockerfile ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 💻 Other      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 ```
 
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-<sub>📅 Last updated: Friday, June 12, 2026 at 12:32 AM</sub>
+<sub>📅 Last updated: Saturday, June 13, 2026 at 12:32 AM</sub>
 
 <sub>⚡ Generated with [GitInsights](https://github.com/awcodify/GitInsights)</sub>
 
